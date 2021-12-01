@@ -1,0 +1,3 @@
+R5T.D0105.I001 - Default implementation for INotepadPlusPlusOperator and related services..
+
+GOALS:

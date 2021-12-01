@@ -1,0 +1,3 @@
+R5T.D0105.Base - Service definitions for INotepadPlusPlusOperator and related services.
+
+GOALS:
